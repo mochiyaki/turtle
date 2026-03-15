@@ -24,19 +24,19 @@ npm run dev
 
 ---
 
-# model training: pixel
+## model training: pixel
 
-Git clone the pixel repo:
+git clone the pixel repo:
 ```
 git clone https://github.com/mochiyaki/pixel
 ```
 
-Get inside the cloned folder:
+get inside the cloned folder:
 ```
 cd pixel
 ```
 
-Start training with the sample dataset (in ./data/):
+start training with the sample dataset (in ./data/):
 ```
 python trainer.py
 ```
