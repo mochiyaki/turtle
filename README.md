@@ -22,6 +22,8 @@ activate frontend:
 npm run dev
 ```
 
+*you should go through the model training process (see pixel below) for obtaining the generator_model.safetensors as backend model in order to activating your backend otherwise it doesn't work without a model file
+
 ---
 
 ## model training: pixel
